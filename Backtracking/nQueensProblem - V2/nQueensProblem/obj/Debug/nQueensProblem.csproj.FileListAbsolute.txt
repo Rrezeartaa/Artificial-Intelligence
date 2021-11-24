@@ -1,0 +1,26 @@
+C:\Users\Vigan\documents\visual studio 2013\Projects\nQueensProblem\nQueensProblem\bin\Debug\nQueensProblem.exe.config
+C:\Users\Vigan\documents\visual studio 2013\Projects\nQueensProblem\nQueensProblem\bin\Debug\nQueensProblem.exe
+C:\Users\Vigan\documents\visual studio 2013\Projects\nQueensProblem\nQueensProblem\bin\Debug\nQueensProblem.pdb
+C:\Users\Vigan\documents\visual studio 2013\Projects\nQueensProblem\nQueensProblem\obj\Debug\nQueensProblem.exe
+C:\Users\Vigan\documents\visual studio 2013\Projects\nQueensProblem\nQueensProblem\obj\Debug\nQueensProblem.pdb
+C:\Users\Vigan\documents\visual studio 2013\Projects\nQueensProblem\nQueensProblem\obj\Debug\nQueensProblem.csprojResolveAssemblyReference.cache
+E:\FK\AI\Projektet\nQueensProblem\nQueensProblem\bin\Debug\nQueensProblem.exe.config
+E:\FK\AI\Projektet\nQueensProblem\nQueensProblem\obj\Debug\nQueensProblem.exe
+E:\FK\AI\Projektet\nQueensProblem\nQueensProblem\obj\Debug\nQueensProblem.pdb
+E:\FK\AI\Projektet\nQueensProblem\nQueensProblem\bin\Debug\nQueensProblem.exe
+E:\FK\AI\Projektet\nQueensProblem\nQueensProblem\bin\Debug\nQueensProblem.pdb
+E:\FK\AI\Projektet\nQueensProblem\nQueensProblem\obj\Debug\nQueensProblem.csprojResolveAssemblyReference.cache
+C:\Users\Anita YMERI\Desktop\nQueensProblem\nQueensProblem\bin\Debug\nQueensProblem.exe.config
+C:\Users\Anita YMERI\Desktop\nQueensProblem\nQueensProblem\bin\Debug\nQueensProblem.exe
+C:\Users\Anita YMERI\Desktop\nQueensProblem\nQueensProblem\bin\Debug\nQueensProblem.pdb
+C:\Users\Anita YMERI\Desktop\nQueensProblem\nQueensProblem\obj\Debug\nQueensProblem.csproj.AssemblyReference.cache
+C:\Users\Anita YMERI\Desktop\nQueensProblem\nQueensProblem\obj\Debug\nQueensProblem.csproj.CoreCompileInputs.cache
+C:\Users\Anita YMERI\Desktop\nQueensProblem\nQueensProblem\obj\Debug\nQueensProblem.exe
+C:\Users\Anita YMERI\Desktop\nQueensProblem\nQueensProblem\obj\Debug\nQueensProblem.pdb
+C:\Users\Anita YMERI\Desktop\AI\2021\nQueensProblem - V2\nQueensProblem\bin\Debug\nQueensProblem.exe.config
+C:\Users\Anita YMERI\Desktop\AI\2021\nQueensProblem - V2\nQueensProblem\bin\Debug\nQueensProblem.exe
+C:\Users\Anita YMERI\Desktop\AI\2021\nQueensProblem - V2\nQueensProblem\bin\Debug\nQueensProblem.pdb
+C:\Users\Anita YMERI\Desktop\AI\2021\nQueensProblem - V2\nQueensProblem\obj\Debug\nQueensProblem.csproj.AssemblyReference.cache
+C:\Users\Anita YMERI\Desktop\AI\2021\nQueensProblem - V2\nQueensProblem\obj\Debug\nQueensProblem.csproj.CoreCompileInputs.cache
+C:\Users\Anita YMERI\Desktop\AI\2021\nQueensProblem - V2\nQueensProblem\obj\Debug\nQueensProblem.exe
+C:\Users\Anita YMERI\Desktop\AI\2021\nQueensProblem - V2\nQueensProblem\obj\Debug\nQueensProblem.pdb

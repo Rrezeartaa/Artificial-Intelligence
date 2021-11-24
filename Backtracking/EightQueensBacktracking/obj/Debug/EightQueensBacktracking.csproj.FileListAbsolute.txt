@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\BazatAI_2021\EightQueensBacktracking\bin\Debug\EightQueensBacktracking.exe.config
+C:\Users\HP\source\repos\BazatAI_2021\EightQueensBacktracking\bin\Debug\EightQueensBacktracking.exe
+C:\Users\HP\source\repos\BazatAI_2021\EightQueensBacktracking\bin\Debug\EightQueensBacktracking.pdb
+C:\Users\HP\source\repos\BazatAI_2021\EightQueensBacktracking\obj\Debug\EightQueensBacktracking.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\BazatAI_2021\EightQueensBacktracking\obj\Debug\EightQueensBacktracking.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BazatAI_2021\EightQueensBacktracking\obj\Debug\EightQueensBacktracking.exe
+C:\Users\HP\source\repos\BazatAI_2021\EightQueensBacktracking\obj\Debug\EightQueensBacktracking.pdb
+C:\Users\Anita YMERI\Desktop\AI\BazatAI_2021\EightQueensBacktracking\bin\Debug\EightQueensBacktracking.exe.config
+C:\Users\Anita YMERI\Desktop\AI\BazatAI_2021\EightQueensBacktracking\bin\Debug\EightQueensBacktracking.exe
+C:\Users\Anita YMERI\Desktop\AI\BazatAI_2021\EightQueensBacktracking\bin\Debug\EightQueensBacktracking.pdb
+C:\Users\Anita YMERI\Desktop\AI\BazatAI_2021\EightQueensBacktracking\obj\Debug\EightQueensBacktracking.csproj.AssemblyReference.cache
+C:\Users\Anita YMERI\Desktop\AI\BazatAI_2021\EightQueensBacktracking\obj\Debug\EightQueensBacktracking.csproj.CoreCompileInputs.cache
+C:\Users\Anita YMERI\Desktop\AI\BazatAI_2021\EightQueensBacktracking\obj\Debug\EightQueensBacktracking.exe
+C:\Users\Anita YMERI\Desktop\AI\BazatAI_2021\EightQueensBacktracking\obj\Debug\EightQueensBacktracking.pdb

@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\BazatAI_2021\EightPuzzle_BFS\bin\Debug\EightPuzzle_BFS.exe.config
+C:\Users\HP\source\repos\BazatAI_2021\EightPuzzle_BFS\bin\Debug\EightPuzzle_BFS.exe
+C:\Users\HP\source\repos\BazatAI_2021\EightPuzzle_BFS\bin\Debug\EightPuzzle_BFS.pdb
+C:\Users\HP\source\repos\BazatAI_2021\EightPuzzle_BFS\obj\Debug\EightPuzzle_BFS.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\BazatAI_2021\EightPuzzle_BFS\obj\Debug\EightPuzzle_BFS.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BazatAI_2021\EightPuzzle_BFS\obj\Debug\EightPuzzle_BFS.exe
+C:\Users\HP\source\repos\BazatAI_2021\EightPuzzle_BFS\obj\Debug\EightPuzzle_BFS.pdb

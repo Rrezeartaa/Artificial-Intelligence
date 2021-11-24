@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\BazatAI_2021\MapColoringWithBacktracking\bin\Debug\MapColoringWithBacktracking.exe.config
+C:\Users\HP\source\repos\BazatAI_2021\MapColoringWithBacktracking\bin\Debug\MapColoringWithBacktracking.exe
+C:\Users\HP\source\repos\BazatAI_2021\MapColoringWithBacktracking\bin\Debug\MapColoringWithBacktracking.pdb
+C:\Users\HP\source\repos\BazatAI_2021\MapColoringWithBacktracking\obj\Debug\MapColoringWithBacktracking.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\BazatAI_2021\MapColoringWithBacktracking\obj\Debug\MapColoringWithBacktracking.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BazatAI_2021\MapColoringWithBacktracking\obj\Debug\MapColoringWithBacktracking.exe
+C:\Users\HP\source\repos\BazatAI_2021\MapColoringWithBacktracking\obj\Debug\MapColoringWithBacktracking.pdb

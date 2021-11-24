@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\BazatAI_2021\EightPuzzleDFS\bin\Debug\EightPuzzleDFS.exe.config
+C:\Users\HP\source\repos\BazatAI_2021\EightPuzzleDFS\bin\Debug\EightPuzzleDFS.exe
+C:\Users\HP\source\repos\BazatAI_2021\EightPuzzleDFS\bin\Debug\EightPuzzleDFS.pdb
+C:\Users\HP\source\repos\BazatAI_2021\EightPuzzleDFS\obj\Debug\EightPuzzleDFS.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\BazatAI_2021\EightPuzzleDFS\obj\Debug\EightPuzzleDFS.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BazatAI_2021\EightPuzzleDFS\obj\Debug\EightPuzzleDFS.exe
+C:\Users\HP\source\repos\BazatAI_2021\EightPuzzleDFS\obj\Debug\EightPuzzleDFS.pdb
+C:\Users\Anita YMERI\Desktop\wetransfer_bazatai_2021-rar_2021-11-08_0822\BazatAI_2021\EightPuzzleDFS\bin\Debug\EightPuzzleDFS.exe.config
+C:\Users\Anita YMERI\Desktop\wetransfer_bazatai_2021-rar_2021-11-08_0822\BazatAI_2021\EightPuzzleDFS\bin\Debug\EightPuzzleDFS.exe
+C:\Users\Anita YMERI\Desktop\wetransfer_bazatai_2021-rar_2021-11-08_0822\BazatAI_2021\EightPuzzleDFS\bin\Debug\EightPuzzleDFS.pdb
+C:\Users\Anita YMERI\Desktop\wetransfer_bazatai_2021-rar_2021-11-08_0822\BazatAI_2021\EightPuzzleDFS\obj\Debug\EightPuzzleDFS.csproj.AssemblyReference.cache
+C:\Users\Anita YMERI\Desktop\wetransfer_bazatai_2021-rar_2021-11-08_0822\BazatAI_2021\EightPuzzleDFS\obj\Debug\EightPuzzleDFS.csproj.CoreCompileInputs.cache
+C:\Users\Anita YMERI\Desktop\wetransfer_bazatai_2021-rar_2021-11-08_0822\BazatAI_2021\EightPuzzleDFS\obj\Debug\EightPuzzleDFS.exe
+C:\Users\Anita YMERI\Desktop\wetransfer_bazatai_2021-rar_2021-11-08_0822\BazatAI_2021\EightPuzzleDFS\obj\Debug\EightPuzzleDFS.pdb

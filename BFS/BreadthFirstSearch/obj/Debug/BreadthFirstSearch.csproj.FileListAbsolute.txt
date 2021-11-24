@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\BazatAI_2021\BreadthFirstSearch\bin\Debug\BreadthFirstSearch.exe.config
+C:\Users\HP\source\repos\BazatAI_2021\BreadthFirstSearch\bin\Debug\BreadthFirstSearch.exe
+C:\Users\HP\source\repos\BazatAI_2021\BreadthFirstSearch\bin\Debug\BreadthFirstSearch.pdb
+C:\Users\HP\source\repos\BazatAI_2021\BreadthFirstSearch\obj\Debug\BreadthFirstSearch.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\BazatAI_2021\BreadthFirstSearch\obj\Debug\BreadthFirstSearch.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BazatAI_2021\BreadthFirstSearch\obj\Debug\BreadthFirstSearch.exe
+C:\Users\HP\source\repos\BazatAI_2021\BreadthFirstSearch\obj\Debug\BreadthFirstSearch.pdb

@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\BazatAI_2021\DepthFirstSearch\bin\Debug\DepthFirstSearch.exe.config
+C:\Users\HP\source\repos\BazatAI_2021\DepthFirstSearch\bin\Debug\DepthFirstSearch.exe
+C:\Users\HP\source\repos\BazatAI_2021\DepthFirstSearch\bin\Debug\DepthFirstSearch.pdb
+C:\Users\HP\source\repos\BazatAI_2021\DepthFirstSearch\obj\Debug\DepthFirstSearch.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\BazatAI_2021\DepthFirstSearch\obj\Debug\DepthFirstSearch.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BazatAI_2021\DepthFirstSearch\obj\Debug\DepthFirstSearch.exe
+C:\Users\HP\source\repos\BazatAI_2021\DepthFirstSearch\obj\Debug\DepthFirstSearch.pdb
+C:\Users\Anita YMERI\Desktop\AI\BazatAI_2021\DepthFirstSearch\bin\Debug\DepthFirstSearch.exe.config
+C:\Users\Anita YMERI\Desktop\AI\BazatAI_2021\DepthFirstSearch\bin\Debug\DepthFirstSearch.exe
+C:\Users\Anita YMERI\Desktop\AI\BazatAI_2021\DepthFirstSearch\bin\Debug\DepthFirstSearch.pdb
+C:\Users\Anita YMERI\Desktop\AI\BazatAI_2021\DepthFirstSearch\obj\Debug\DepthFirstSearch.csproj.AssemblyReference.cache
+C:\Users\Anita YMERI\Desktop\AI\BazatAI_2021\DepthFirstSearch\obj\Debug\DepthFirstSearch.csproj.CoreCompileInputs.cache
+C:\Users\Anita YMERI\Desktop\AI\BazatAI_2021\DepthFirstSearch\obj\Debug\DepthFirstSearch.exe
+C:\Users\Anita YMERI\Desktop\AI\BazatAI_2021\DepthFirstSearch\obj\Debug\DepthFirstSearch.pdb
